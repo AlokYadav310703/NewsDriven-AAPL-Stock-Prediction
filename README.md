@@ -1,5 +1,7 @@
 ## A Multi-Stage Deep Learning Framework for Stock Price Prediction Using LLM-Based News Intelligence and Error Correction
 
+Live Demo: https://aaplstockprediction.streamlit.app/
+
 A three-stage, memory-augmented, event-driven stock prediction pipeline for Apple Inc. (AAPL) that fuses LLM-extracted news intelligence, ensemble deep-learning price forecasting, and a learned residual error-correction model.
 
 ---
