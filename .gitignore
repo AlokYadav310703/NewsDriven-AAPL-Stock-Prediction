@@ -1,2 +1,8 @@
-.env
-Research Paper.pdf
+/.env
+/Research Paper.pdf
+/AAPL_Project_Requirements_Document.docx
+/AAPL_Research_Poster_Enhanced.pptx
+/runtime.txt
+
+/notebook/.ipynb_checkpoints/
+/notebook/checkpoints/
