@@ -1417,9 +1417,6 @@ def main():
         - **Price Data**: Fetched live from Yahoo Finance and validated — if
           the feed is down or returns incomplete/NaN data, you'll see a
           clear error message instead of a broken prediction.
-
-        ---
-        *Made with for stock prediction enthusiasts*
         """)
 
 
